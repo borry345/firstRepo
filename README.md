@@ -162,4 +162,4 @@ It same with link just typing \! at first of link
 ![let's show me dog](https://postfiles.pstatic.net/MjAyMjA5MzBfMjI4/MDAxNjY0NTIwMjcyMTcx.ON0naofikuXjJyIs5dRJfsQOpqpzUn0fwJpYMKEDsg8g.K4d36qPTsBK0sP7A2m0GKRcuGqqPXLdJGw87kEmQYQIg.JPEG.abnw65/SE-73af2e31-154b-4408-a1ea-e6ebf8b636b1.jpg?type=w966)
 
 ![reference][dog]
-[dog]:https://postfiles.pstatic.net/MjAyMjA5MzBfMjI4/MDAxNjY0NTIwMjcyMTcx.ON0naofikuXjJyIs5dRJfsQOpqpzUn0fwJpYMKEDsg8g.K4d36qPTsBK0sP7A2m0GKRcuGqqPXLdJGw87kEmQYQIg.JPEG.abnw65/SE-73af2e31-154b-4408-a1ea-e6ebf8b636b1.jpg?type=w966
+[dog] : https://postfiles.pstatic.net/MjAyMjA5MzBfMjI4/MDAxNjY0NTIwMjcyMTcx.ON0naofikuXjJyIs5dRJfsQOpqpzUn0fwJpYMKEDsg8g.K4d36qPTsBK0sP7A2m0GKRcuGqqPXLdJGw87kEmQYQIg.JPEG.abnw65/SE-73af2e31-154b-4408-a1ea-e6ebf8b636b1.jpg?type=w966
