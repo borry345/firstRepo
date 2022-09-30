@@ -77,7 +77,7 @@ It also work !
 
 <hr>
 
-Caution ! below this.
+Caution ! below this may not work as other envierment.
 ```
 1. It will not work as list
     1. num 1
@@ -103,3 +103,22 @@ Using \- or \+ or \*
   + not or item
   * n o i
   * n
+
+# You can mix them lists.
+```
+1. ordered list and not ordered list
+    - not or i 1
+    + no i2
+    * i3
+    1. ordered i1
+    2. i2
+3. just up list item
+```
+
+1. ordered list and not ordered list
+    - not or i 1
+    + no i2
+    * i3
+    1. ordered i1
+    2. i2
+3. just up list item
