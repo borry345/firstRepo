@@ -11,5 +11,6 @@ How to using github at first time ?
 '#' tag auto generate horizen bar.
 
 # 1. How to making block ?
-  Using tab key!
-  It will wrap !
+## 1.1. Using tab key,
+   1.1.1. With '#'.
+   1.1.2. It will wrap !
