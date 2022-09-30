@@ -6,6 +6,12 @@ How to using github at first time ?
 
 > And This .md is madeded for my testing grammar of md
 
+If you care about design and detail, do not forgot using 2 times of enter key
+> this right arrow 
+<br>
+> this right arrow
+> this right arrow
+
 '#' Like <h~> tag in the html.
 # h1'#'
 ## h2'##'
