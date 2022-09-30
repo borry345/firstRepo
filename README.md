@@ -9,3 +9,7 @@ How to using github at first time ?
 ## h2'##'
 ## h3'###'
 '#' tag auto generate horizen bar.
+
+# 1. How to making block ?
+  Using tab key!
+  It will wrap !
