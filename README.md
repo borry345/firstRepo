@@ -44,5 +44,10 @@ print("he")
 print("he")
 ```
 # ordered list
-You can using <ul> or <ol> tag !
-  
+You can using \<ul> or \<ol> tag !  
+or just using number
+```
+1. ordered list
+  1. ordered item
+  2. item2
+```
