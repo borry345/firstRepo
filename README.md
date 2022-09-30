@@ -133,3 +133,15 @@ Using \- or \+ or \*
     + not ordered i2
     2. ordered i2
     - not or i 3
+# link
+texting \[]() or \[]\[]  
+in \[](), \[want to text to link](direct url like google.com)  
+in \[][], seconde \[] is reference. obviously defnite reference  
+```
+[for korean](https://heropy.blog/2017/09/30/markdown/)
+[google][reference]
+[reference]:https://google.com
+```
+[for korean](https://heropy.blog/2017/09/30/markdown/)
+[google][reference]
+[reference]:https://google.com
