@@ -113,6 +113,11 @@ Using \- or \+ or \*
     1. ordered i1
     2. i2
 3. just up list item
+    * i3
+    1. ordered i1
+    + no i2
+    3. i2
+    - not or i 1
 ```
 
 1. ordered list and not ordered list
@@ -122,3 +127,8 @@ Using \- or \+ or \*
     1. ordered i1
     2. i2
 3. just up list item
+    * i3
+    1. ordered i1
+    + no i2
+    3. i2
+    - not or i 1
