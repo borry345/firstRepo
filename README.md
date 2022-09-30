@@ -59,3 +59,6 @@ using tab key make sure lower level
 # not ordered list
 Using \- or \+ or \*
 ```
+- not ordered
+  + not or item
+  * n o i
