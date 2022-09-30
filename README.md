@@ -22,10 +22,9 @@ or '<br'>
 ### h3'###'
 '#' tag auto generate horizen bar.
 
-'#' can use with 6.
+'#' can use with 6. can't 7.
 
-Using with each 3`(~) wraping not henerated h-bar.
-
+\# h1
 `# using ` h1
 
 # How to making block ?
