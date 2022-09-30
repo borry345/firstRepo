@@ -46,15 +46,16 @@ print("he")
 # ordered list
 You can using \<ul> or \<ol> tag !  
 or just using number  
-using tab key make sure lower level
+using tab(4 times of blank space make sure) key make sure lower level
 ```
 1. ordered list
-  1. ordered item
-  2. item2
+    1. ordered item
+    2. item2
 ```
+
 1. ordered list
-  1. ordered item
-  2. item2
+    1. ordered item
+    2. item2
 
 # not ordered list
 Using \- or \+ or \*
