@@ -25,9 +25,9 @@ or '<br'>
 '#' can use with 6.
 
 Using with each 3`(~) wraping not henerated h-bar.
-```
-# using ` h1
-```
+
+`# using ` h1
+
 # How to making block ?
 ## Using ` key 3times
 ```
