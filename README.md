@@ -8,3 +8,4 @@ How to using github at first time ?
 # h1'#'
 ## h2'##'
 ## h3'###'
+'#' tag auto generate horizen bar.
