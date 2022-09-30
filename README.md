@@ -28,7 +28,8 @@ Using with each 3`(~) wraping not henerated h-bar.
 ```
 # using ` h1
 ```
-# 1. How to making block ?
-## 1.1. Using tab key,
-   1.1.1. With '#'.
-   1.1.2. It will wrap !
+# How to making block ?
+## Using ` key 3times
+```
+like this
+In this block, <hr> <br> code not working as html
