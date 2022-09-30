@@ -37,9 +37,9 @@ In this block, <hr> <br> code not working as html
 It can display the code easily and what kind of programming language used.
 ```
 
-\`\`\`python
-print("he")
-\`\`\`
+\`\`\`python <br>
+print("he")  
+\`\`\` <br>
 ```python
 print("he")
 ```
