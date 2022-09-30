@@ -34,3 +34,12 @@ also make MDgrammar work as just text.
 ```
 like this
 In this block, <hr> <br> code not working as html
+It can display the code easily and what kind of programming language used.
+```
+
+\`\`\`python
+print("he")
+\`\`\`
+```python
+print("he")
+```
