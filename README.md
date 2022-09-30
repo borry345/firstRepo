@@ -25,7 +25,8 @@ or '<br'>
 '#' can use with 6. can't 7.
 
 # using with \ first at line with MDgrammar like \or <br> make not work.
-`# using ` h1
+\` \` will extinglish in things.
+also make MDgrammar work as just text. 
 
 # How to making block ?
 ## Using ` key 3times
