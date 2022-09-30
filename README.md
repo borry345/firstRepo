@@ -12,7 +12,7 @@ If you care about design and detail, do not forgot using 2 times of enter key
 > this right arrow  
 > this right arrow
 
-If u want to line changing.  
+If u want to line changing. (I mean line break.)  
 at the end of line, using space bar (blank two times)  
 or '<br'>
 
