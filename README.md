@@ -52,9 +52,9 @@ using tab key make sure lower level
   1. ordered item
   2. item2
 ```
-\1. ordered list
-\  1. ordered item
-\  2. item2
+1. ordered list
+  1. ordered item
+  2. item2
 
 # not ordered list
 Using \- or \+ or \*
