@@ -56,9 +56,11 @@ using tab(4 times of blank space make sure) key make sure lower level
 1. ordered list
     1. ordered item
     2. item2
-```
+
+
 <hr>
 It also work !
+
 ```
 1. also ordered list
     1. num 1
@@ -72,10 +74,22 @@ It also work !
     3. num 3
     5. num 5
     11. ascending with random bigger num also ordered.
+
+<hr>
 
 Caution ! below this.
+```
 1. It will not work as list
-    1. 
+    1. num 1
+    5. num 5
+    3. num 3 < cause !
+    7. num 7
+```
+1. It will not work as list
+    1. num 1
+    5. num 5
+    3. num 3 < cause !
+    7. num 7
 
 # not ordered list
 Using \- or \+ or \*
@@ -83,3 +97,9 @@ Using \- or \+ or \*
 - not ordered
   + not or item
   * n o i
+  * n
+```
+- not ordered
+  + not or item
+  * n o i
+  * n
