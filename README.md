@@ -14,7 +14,8 @@ If you care about design and detail, do not forgot using 2 times of enter key
 
 If u want to line changing.  
 at the end of line, using space bar (blank two times)  
-or <br>
+or '<br>'
+<br>
 '#' Like <h~> tag in the html.
 # h1'#'
 ## h2'##'
