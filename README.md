@@ -159,9 +159,7 @@ It same with link just typing \! at first of link
 
 [dog]:https://postfiles.pstatic.net/MjAyMjA5MzBfMjI4/MDAxNjY0NTIwMjcyMTcx.ON0naofikuXjJyIs5dRJfsQOpqpzUn0fwJpYMKEDsg8g.K4d36qPTsBK0sP7A2m0GKRcuGqqPXLdJGw87kEmQYQIg.JPEG.abnw65/SE-73af2e31-154b-4408-a1ea-e6ebf8b636b1.jpg?type=w966
 ```
-![let's show me dog](https://postfiles.pstatic.net/MjAyMjA1MTZfMTgy/MDAxNjUyNjg1MDQyNDQ4.BpnzarATKRNW4u5odLLPVewkVKF3M1nzcTnszTK6TFgg.eaiI6hBoVTwlPz4Ds1tjSfSaHokfDaMo3ewExCX5MPkg.JPEG.abnw65/20220331_121942.jpg?type=w966)
+![let's show me dog](https://postfiles.pstatic.net/MjAyMjA5MzBfMjI4/MDAxNjY0NTIwMjcyMTcx.ON0naofikuXjJyIs5dRJfsQOpqpzUn0fwJpYMKEDsg8g.K4d36qPTsBK0sP7A2m0GKRcuGqqPXLdJGw87kEmQYQIg.JPEG.abnw65/SE-73af2e31-154b-4408-a1ea-e6ebf8b636b1.jpg?type=w966)
 
 ![reference][dog]
 [dog]:https://postfiles.pstatic.net/MjAyMjA5MzBfMjI4/MDAxNjY0NTIwMjcyMTcx.ON0naofikuXjJyIs5dRJfsQOpqpzUn0fwJpYMKEDsg8g.K4d36qPTsBK0sP7A2m0GKRcuGqqPXLdJGw87kEmQYQIg.JPEG.abnw65/SE-73af2e31-154b-4408-a1ea-e6ebf8b636b1.jpg?type=w966
-
-
