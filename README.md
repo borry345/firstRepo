@@ -9,9 +9,12 @@ How to using github at first time ?
 If you care about design and detail, do not forgot using 2 times of enter key
 > this right arrow 
 <br>
-> this right arrow
+> this right arrow  
 > this right arrow
 
+If u want to line changing.  
+at the end of line, using space bar (blank two times)  
+or <br>
 '#' Like <h~> tag in the html.
 # h1'#'
 ## h2'##'
