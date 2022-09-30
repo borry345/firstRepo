@@ -7,9 +7,13 @@ How to using github at first time ?
 '#' Like <h~> tag in the html.
 # h1'#'
 ## h2'##'
-## h3'###'
+### h3'###'
 '#' tag auto generate horizen bar.
-
+'#' can use with 6.
+Using with each 3`(~) wraping not henerated h-bar.
+```
+# using ` h1
+```
 # 1. How to making block ?
 ## 1.1. Using tab key,
    1.1.1. With '#'.
