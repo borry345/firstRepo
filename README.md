@@ -56,6 +56,26 @@ using tab(4 times of blank space make sure) key make sure lower level
 1. ordered list
     1. ordered item
     2. item2
+```
+<hr>
+It also work !
+```
+1. also ordered list
+    1. num 1
+    3. num 3
+    5. num 5
+    11. ascending with random bigger num also ordered.
+```
+
+1. also ordered list
+    1. num 1
+    3. num 3
+    5. num 5
+    11. ascending with random bigger num also ordered.
+
+Caution ! below this.
+1. It will not work as list
+    1. 
 
 # not ordered list
 Using \- or \+ or \*
